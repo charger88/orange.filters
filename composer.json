@@ -1,0 +1,17 @@
+{
+  "name": "charger88/orange.filters",
+  "description": "This library implements HTML text filters.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mikhail Kelner",
+      "email": "mikhail.kelner@gmail.com"
+    }
+  ]
+}
